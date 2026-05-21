@@ -3,9 +3,5 @@ project:
   output-dir: docs
 
 website:
-  title: "Meine Präsentation"
+  title: "PowerPoint-Ripoff"
   site-url: "https://alexanderh29.github.io/PowerPoint-Ripoff"
-
-format:
-  html:
-    theme: default
