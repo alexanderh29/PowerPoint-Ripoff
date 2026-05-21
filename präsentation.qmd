@@ -1,0 +1,30 @@
+---
+title: "Meine Präsentation"
+author: "Dein Name"
+format:
+  revealjs:
+    theme: solarized
+    slide-number: true
+    embed-resources: true
+---
+
+## Folie 1: Einleitung
+
+- Punkt A
+- Punkt B
+- Punkt C
+
+## Folie 2: Methodik
+
+> Eine wichtige These hier einfügen
+
+## Folie 3: Ergebnisse
+
+| Kategorie | Wert |
+|-----------|------|
+| A         | 42   |
+| B         | 17   |
+
+## Fazit
+
+**Wichtigste Erkenntnis**: Quarto macht Präsentationen im Browser einfach.

@@ -1,0 +1,11 @@
+project:
+  type: website
+  output-dir: docs
+
+website:
+  title: "Meine Präsentation"
+  site-url: "https://dein-username.github.io/dein-repo-name"
+
+format:
+  html:
+    theme: default
