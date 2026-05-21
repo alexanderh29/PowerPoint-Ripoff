@@ -1,7 +1,0 @@
-project:
-  type: website
-  output-dir: docs
-
-website:
-  title: "PowerPoint-Ripoff"
-  site-url: "https://alexanderh29.github.io/PowerPoint-Ripoff"
