@@ -1,28 +1,28 @@
 [
   {
-    "objectID": "präsentation.html#folie-1-einleitung",
-    "href": "präsentation.html#folie-1-einleitung",
+    "objectID": "index.html#folie-1-einleitung",
+    "href": "index.html#folie-1-einleitung",
     "title": "Meine Präsentation",
     "section": "Folie 1: Einleitung",
     "text": "Folie 1: Einleitung\n\nPunkt A\nPunkt B\nPunkt C"
   },
   {
-    "objectID": "präsentation.html#folie-2-methodik",
-    "href": "präsentation.html#folie-2-methodik",
+    "objectID": "index.html#folie-2-methodik",
+    "href": "index.html#folie-2-methodik",
     "title": "Meine Präsentation",
     "section": "Folie 2: Methodik",
     "text": "Folie 2: Methodik\n\nEine wichtige These hier einfügen"
   },
   {
-    "objectID": "präsentation.html#folie-3-ergebnisse",
-    "href": "präsentation.html#folie-3-ergebnisse",
+    "objectID": "index.html#folie-3-ergebnisse",
+    "href": "index.html#folie-3-ergebnisse",
     "title": "Meine Präsentation",
     "section": "Folie 3: Ergebnisse",
     "text": "Folie 3: Ergebnisse\n\n\n\nKategorie\nWert\n\n\n\n\nA\n42\n\n\nB\n17"
   },
   {
-    "objectID": "präsentation.html#fazit",
-    "href": "präsentation.html#fazit",
+    "objectID": "index.html#fazit",
+    "href": "index.html#fazit",
     "title": "Meine Präsentation",
     "section": "Fazit",
     "text": "Fazit\nWichtigste Erkenntnis: Quarto macht Präsentationen im Browser einfach."
