@@ -1,1 +1,1 @@
-Sitemap: https://dein-username.github.io/dein-repo-name/sitemap.xml
+Sitemap: https://alexanderh29.github.io/PowerPoint-Ripoff/sitemap.xml
